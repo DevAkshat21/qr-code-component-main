@@ -23,8 +23,8 @@ This was my first challenge took me about an hour to make this.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/DevAkshat21/qr-code-component-main))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://devakshat21.github.io/qr-code-component-main/))
 
 ## My process
 Well I followed the preview was stuck on how to center the div but then somehow figured it out and made this
